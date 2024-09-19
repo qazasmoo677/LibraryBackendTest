@@ -1,0 +1,6 @@
+@TestLibraryBackend_HostAddress = http://localhost:5158
+
+GET {{TestLibraryBackend_HostAddress}}/TestLibraryBackend/
+Accept: application/json
+
+###

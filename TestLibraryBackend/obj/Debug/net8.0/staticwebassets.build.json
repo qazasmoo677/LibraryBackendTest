@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+C+EjeQpS7wW+n6hgFY+2chkNdW0fuTnOqFJjdfg7j0=",
+  "Source": "TestLibraryBackend",
+  "BasePath": "_content/TestLibraryBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
